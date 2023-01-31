@@ -11,7 +11,6 @@ class Fluere < Formula
   depends_on arch: :x86_64
   depends_on "libpcap"
 
-  end
 
   def install
     bin.install "fluere"
