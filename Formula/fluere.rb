@@ -5,7 +5,7 @@ class Fluere < Formula
   desc "Fluere is a cross-platform network tool aimed at pcap sniffing, netflow dump."
   homepage "https://github.com/SkuldNorniern/fluere"
   url "https://github.com/SkuldNorniern/fluere/releases/download/v.0.3.0/fluere_0.3.0_macos_intel.tar.gz"
-  sha256 "2560e1112cfe6b11e1f28573a9c6032031eee6dc7521ec63be03b961c13bc9d7"
+  sha256 "1109be272b5ca58c2da98c653563820663885d548c81cbc3e4cc579f98ea212b"
   version "0.3.0"
 
   depends_on arch: :x86_64
