@@ -14,6 +14,9 @@ class Fluere < Formula
 
   def install
     bin.install "fluere"
+  end
 
+  test do 
+    system "fluere", "--version"
   end
 end
